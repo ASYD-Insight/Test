@@ -1,0 +1,6 @@
+streamlit
+huggingface_hub
+pillow
+gtts
+python-dotenv
+
